@@ -1,0 +1,1 @@
+WEB IN STATIC
