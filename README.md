@@ -7,7 +7,7 @@ The goal of the project is to deploy on a server a simple copy of the AirBnB web
 It won’t implement all the features, only some of them to cover all fundamental concepts of the higher level programming track.
 
 # First step: Write a command interpreter to manage your AirBnB objects.
-This first step is very important because it will use what you build during this project with all other following projects: HTML/CSS templating, database storage, API, front-end in
+This first step is very important because it will use what you build during this project with all other following projects: HTML/CSS templating, database storage, API, front-end in.
 
 # What’s a command interpreter?
 Do you remember the Shell? It’s exactly the same but limited to a specific use-case. In our case, we want to be able to manage the objects of our project:
